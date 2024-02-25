@@ -188,7 +188,7 @@ def display_menu(self):
         print("3. View Basic Statistics")
         print("4. Analyze Health Data")
         print("5. Generate Health Insights")
-        print("6. Exit")
+        print("6. Exit!")
 
 def run(self):
     while True:
