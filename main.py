@@ -184,7 +184,7 @@ class CLI:
 def display_menu(self):
         print("\nHealth Dashboard Menu:")
         print("1. Manual Data Entry")
-        print("2. Import External Data")
+        print("2. Import External Data:")
         print("3. View Basic Statistics")
         print("4. Analyze Health Data")
         print("5. Generate Health Insights")
